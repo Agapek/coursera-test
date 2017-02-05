@@ -1,0 +1,55 @@
+/*header*/
+#header-nav{
+	background-color: #000066;
+}
+.container{
+	margin: 0;
+}
+.navbar-header{
+	padding: 0 0 30px 5px;
+}
+.navbar-brand{
+	height: 80px;
+}
+.navbar-brand h1{
+	color: #FFFF33;
+}
+#nav-list a{
+	background-color: #000066;
+}
+#nav-list a:hover{
+	background: #fff59d;
+}
+#collapsable-nav{
+	background-color: #000066;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid #FFFF33;
+}
+.navbar-header button.navbar-toggle{
+	margin-top: 30px;
+}
+.navbar-default .navbar-toggle:hover{
+	background-color: #CCCCFF;
+}
+
+
+/*main content*/
+body{
+	background-color: #DAF7A6;
+}
+h2 {
+	margin-bottom: 30px;
+}
+#menu-tile{
+	margin: 20px;
+	padding:10px;
+	background-color: #CCCCFF;
+}
+h3{
+	margin-top: 10px;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #fff59d;
+	font-size: 1.5em;
+}
